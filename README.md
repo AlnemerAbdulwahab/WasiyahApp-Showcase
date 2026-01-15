@@ -78,7 +78,6 @@ This MVP is architected to scale into a production system:
 
 - **API Integration:** Replacing the simulation controller with real RESTful calls to Nafath (IAM) and Absher.
 - **Blockchain Ledger:** Storing will hashes on a private Hyperledger network to ensure immutability and prevent tampering.
-- **WealthTech Features:** Direct integration with SAMA to freeze assets automatically upon will execution.
 
 ---
 
@@ -90,23 +89,3 @@ If you are interested in the technical architecture or the business potential of
 **Bootcamp:** Tuwaiq Academy - Software Development
 
 ---
-
-## 📋 Prerequisites for Setup
-
-To display this README properly, you need to:
-
-1. Create a `screenshots` folder in your repository
-2. Add the following screenshot files:
-   - `Home_Light.png` / `Home_Dark.png`
-   - `Details_Light.png` / `Details_Dark.png`
-   - `Benef_Light.png` / `Benef_Dark.png`
-   - `Gov_Light.png` / `Gov_Dark.png`
-
-3. Create an `images` folder in your repository
-4. Add the following image files:
-   - `poster.png`
-   - `logo.png`
-
----
-
-<p align="center">Made with ❤️ in Saudi Arabia 🇸🇦</p>
